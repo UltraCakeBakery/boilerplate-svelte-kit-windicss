@@ -1,0 +1,1 @@
+Check the __layout.svelte. There is an import there that is required for windicss to work.
