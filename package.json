@@ -8,10 +8,10 @@
   },
   "devDependencies": {
     "@sveltejs/kit": "next",
+    "@windicss/plugin-interaction-variants": "^1.0.0",
     "svelte": "^3.42.6",
     "vite-plugin-windicss": "^0.15.10",
     "windicss": "^3.1.7",
-    "@windicss/plugin-interaction-variants": "^1.0.0"
   },
   "type": "module"
 }
